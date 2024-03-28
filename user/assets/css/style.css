@@ -829,7 +829,9 @@ div#preloader {
 .pst-content {
   padding-left: 10px;
 }
-
+.portfolio-container{
+  height: 10rem;
+}
 #portfolio-flters {
   padding: 0;
   margin: 5px 0 35px 0;
